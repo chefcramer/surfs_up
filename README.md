@@ -2,7 +2,7 @@
 Module 9, Surf's Up with Advanced Data Storage and Retrieval. Surf's Up bruh!!
 
 ## Overview of the analysis: Explain the purpose of this analysis.
-This analysis is to examine the feasibility of opening a Surf/Ice Cream Shop in Oahu Hawaii. We will take into account the temeperatures and percipitation amounts over 9 weather staions acattered around the area.
+This analysis is to examine the feasibility of opening a Surf/Ice Cream Shop in Oahu Hawaii. We will take into account the temeperatures and percipitation amounts over 9 weather staions scattered around the area.
 
 ## Results
 - First we queried the data base to get the date and the tobs (Temperature Observations) data from those columns. We then used the `.filter(extract)` method to extract only the dates that occured in June and December respectively.
